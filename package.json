@@ -1,0 +1,27 @@
+{
+  "name": "node-gis-functions",
+  "version": "0.0.1",
+  "description": "Collection of GIS functions for Node apps.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrjrdnthms/node-gis-functions.git"
+  },
+  "keywords": [
+    "Node",
+    "GIS"
+  ],
+  "author": "Jordan Thomas <jordan@everyvine.com> (http://www.everyvine.com/)",
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+		}
+	],
+  "bugs": {
+    "url": "https://github.com/mrjrdnthms/node-gis-functions/issues"
+  },
+  "homepage": "https://github.com/mrjrdnthms/node-gis-functions"
+}
